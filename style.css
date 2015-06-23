@@ -6341,7 +6341,7 @@ li ul, li ol {
 
 ul, ol {
   margin: 0 20px 20px 0;
-  padding-left: 40px; }
+  padding-left: 0px; }
 
 ul {
   list-style-type: disc; }
@@ -7381,7 +7381,7 @@ div.overlay.animated img {
 
 div.menu_head {
   display: none;
-  margin-top: 75px; }
+  margin-top: 48px; }
 
 .post img {
   max-width: 100%;
@@ -7444,7 +7444,9 @@ span#blog-pager-newer-link a {
   .menu-secondary-container {
     overflow: visible; }
   div.menu_head {
-    display: block; }
+    display: block;
+    float: left;
+    width: 62%; }
   #rsidebar-wrapper {
     width: 100%; }
   #main-wrapper {
@@ -7488,7 +7490,9 @@ span#blog-pager-newer-link a {
   #rsidebar-wrapper {
     width: 300px; }
   div.menu_head {
-    display: block; }
+    display: block;
+    float: left;
+    width: 62%; }
   .footer-widget-box {
     width: 230px;
     margin-left: 30px; }
