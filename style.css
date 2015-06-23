@@ -6361,6 +6361,9 @@ dd {
 #header-inner {
   background-size: 200px; }
 
+#header-wrapper {
+  background: #F7F5F5; }
+
 .menus, .menus * {
   margin: 0;
   padding: 0;
