@@ -6359,10 +6359,10 @@ dd {
   margin-left: 20px; }
 
 #header-inner {
-  background-size: 600px; }
+  background-size: 200px; }
 
 #header-wrapper {
-  background: #e8e577; }
+  background: #F7F5F5 !important; }
 
 .menus, .menus * {
   margin: 0;
