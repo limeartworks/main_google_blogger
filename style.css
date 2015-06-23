@@ -6367,7 +6367,8 @@ p {
   text-rendering: optimizeLegibility; }
 
 #header-inner {
-  background-size: 200px; }
+  background-size: 200px;
+  margin-top: 24px; }
 
 .header-right {
   float: left;
