@@ -6888,7 +6888,7 @@ h2.date-header {
   padding: 0;
   color: #324353;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 19px;
   font-family: open sans; }
 
 .post h2 {
@@ -7212,7 +7212,7 @@ div#footer-widgets-container {
   text-decoration: none; }
 
 #middle-wrapper {
-  float: left;
+  float: right;
   width: 100%;
   margin-left: 0;
   margin-right: 0; }
