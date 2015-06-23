@@ -6372,7 +6372,8 @@ p {
 .header-right {
   float: left;
   width: 100%;
-  height: 83px; }
+  height: 89px;
+  padding-top: 10px; }
 
 .menus, .menus * {
   margin: 0;
