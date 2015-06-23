@@ -6358,6 +6358,9 @@ dl dt {
 dd {
   margin-left: 20px; }
 
+#header-inner {
+  background-size: 200px; }
+
 .menus, .menus * {
   margin: 0;
   padding: 0;
