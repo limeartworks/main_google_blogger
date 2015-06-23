@@ -6359,7 +6359,12 @@ dd {
   margin-left: 20px; }
 
 p {
-  font-family: "nanum gothic"; }
+  font-family: "nanum gothic";
+  font-size: 0.9rem;
+  font-weight: normal;
+  line-height: 2rem;
+  margin-bottom: 1.25rem;
+  text-rendering: optimizeLegibility; }
 
 #header-inner {
   background-size: 200px; }
