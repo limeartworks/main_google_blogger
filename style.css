@@ -6368,12 +6368,13 @@ p {
 
 #header-inner {
   background-size: 200px;
-  margin-top: 24px; }
+  height: 70px;
+  margin-top: 25px;
+  margin-left: -10px; }
 
 .header-right {
   float: left;
   width: 100%;
-  height: 89px;
   padding-top: 10px; }
 
 .menus, .menus * {
