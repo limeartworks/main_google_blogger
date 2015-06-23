@@ -6369,6 +6369,10 @@ p {
 #header-inner {
   background-size: 200px; }
 
+.header-right {
+  float: left;
+  width: 100%; }
+
 .menus, .menus * {
   margin: 0;
   padding: 0;
@@ -7372,7 +7376,8 @@ div.overlay.animated img {
   margin: 0px; }
 
 div.menu_head {
-  display: none; }
+  display: none;
+  margin-top: 75px; }
 
 .post img {
   max-width: 100%;
