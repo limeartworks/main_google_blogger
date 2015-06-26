@@ -6341,7 +6341,7 @@ span.showpagePoint, #blog-pager a:hover {
   margin-right: 5px; }
 
 img#Header1_headerimg {
-  width: 150px; }
+  width: 150px !important; }
 
 body {
   word-wrap: break-word;
